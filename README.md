@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NioxPlays
-- 👀 Estou buscando me tornar um desenvolvedor Front-end!
-- 🌱  Atualmente estou estudando HTML5 e CSS3.
-- 📫 Procuro aprender e colaborar com todos!
+- 👀  I'm dedicating myself to becoming a Front-end developer!
+- 🌱  I am currently studying HTML5 and CSS3.
+- 📫 I try to learn and collaborate with everyone!
 
 <!---
 NioxPlays/NioxPlays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
